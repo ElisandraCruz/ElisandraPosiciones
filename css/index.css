@@ -1,0 +1,49 @@
+.azul{
+    background-color:rgb(15, 15, 99);
+    height: 40px;
+    width: 100%;
+    position: static;
+    }
+    .segundo{
+    
+        margin-top: 30px;
+        height: 60px;
+        width: 100%;
+        position: static;
+    }
+    .gris{
+        background-color: gray;
+        width: 40%;
+        height: 400px;
+        position: relative;
+        
+        
+    }
+    .azul2{
+    background-color:rgb(15, 15, 99);
+    height: 400px;
+    width: 55%;
+    margin-left: 30px;
+    margin-top: -400px;
+    position: absolute;
+    left: 510px;
+}
+    .azulclaro{
+        background-color: aqua;
+        height: 90px;
+        margin:30px;
+    }
+    .rojo{
+    background-color: rgb(105, 15, 15);
+    width: 100%;
+    margin-top: 360px;
+    height: 300px;
+ 
+    }
+    .azulultimo{
+        background-color: rgb(15, 15, 99);
+        height: 70px;
+        width: 100%;
+        position: static;
+        margin-top: 20px;
+    }
